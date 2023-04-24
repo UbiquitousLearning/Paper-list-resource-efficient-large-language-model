@@ -19,6 +19,7 @@ Example: [Conference'year] [Title](doi), affilication
 
 [MLSys'23] [Flex: Adaptive Mixture-of-Experts at Scale](https://mlsys.org/Conferences/2023/Schedule?showEvent=2477), Microsoft Research </br>
 
+[MLSys'23] [Efficiently Scaling Transformer Inference](https://mlsys.org/Conferences/2023/Schedule?showEvent=2463), Google </br>
 
 ## Compiler
 
