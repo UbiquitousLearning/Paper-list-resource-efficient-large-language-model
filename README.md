@@ -13,7 +13,11 @@ Example: [Conference'year] [Title](doi), affilication
 
 [MLSys'23] [Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization](https://mlsys.org/Conferences/2023/Schedule?showEvent=2442), National university of Singapore </br>
 
+[SenSys'21] [LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications](https://dapowan.github.io/files/LIMU-BERT.pdf), Nanyang Technological University </br>
+
 ## Input
+
+[UbiComp'22] [IF-ConvTransformer: A Framework for Human Activity Recognition Using IMU Fusion and ConvTransformer](https://dl.acm.org/doi/pdf/10.1145/3534584), National University of Defense Technology </br>
 
 ## Inference engine
 
