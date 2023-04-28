@@ -1,6 +1,6 @@
 # Paper-list-resource-efficient-large-language-model
 
-Target venues: system conferences (OSDI/SOSP/ATC/EuroSys), architecture conferences (ISCA/MICRO/ASPLOS/HPCA) network conferences (NSDI/SIGCOMM), mobile conferences (MobiCom/MobiSys/SenSys/UbiComp), AI conferences (NeurIPS/ACL/ICLR/ICML)
+Target venues: system conferences (OSDI/SOSP/ATC/EuroSys), architecture conferences (ISCA/MICRO/ASPLOS/HPCA), network conferences (NSDI/SIGCOMM), mobile conferences (MobiCom/MobiSys/SenSys/UbiComp), AI conferences (NeurIPS/ACL/ICLR/ICML)
 
 We will keep maintaining this list :)
 
