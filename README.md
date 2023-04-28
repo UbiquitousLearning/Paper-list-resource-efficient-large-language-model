@@ -12,6 +12,7 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 
 [ICLR'23] [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://openreview.net/pdf?id=tcbBPnfwxS), IST Austria </br>
 [ICLR'23] [Token Merging: Your ViT But Faster](https://openreview.net/pdf?id=JroZRaRw7Eu),  Georgia Tech </br>
+[ICLR'23] [Efficient Attention via Control Variates](https://openreview.net/pdf?id=G-uNfHKrj46), University of Hong Kong </br>
 
 [MLSys'23] [Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization](https://mlsys.org/Conferences/2023/Schedule?showEvent=2442), National university of Singapore </br>
 
