@@ -29,8 +29,6 @@ Example: [Conference'year] [Title](doi), affilication
 
 [ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf), Peking University </br>
 
-[ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf), Peking University </br>
-
 ## Compiler
 
 ## Hardware
