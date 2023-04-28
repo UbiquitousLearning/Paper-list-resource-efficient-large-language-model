@@ -25,6 +25,12 @@ Example: [Conference'year] [Title](doi), affilication
 
 [MLSys'23] [Efficiently Scaling Transformer Inference](https://mlsys.org/Conferences/2023/Schedule?showEvent=2463), Google </br>
 
+[OSDI'22] [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf), Seoul National University </br>
+
+[ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf), Peking University </br>
+
+[ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf), Peking University </br>
+
 ## Compiler
 
 ## Hardware
