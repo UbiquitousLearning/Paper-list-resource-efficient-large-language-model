@@ -9,6 +9,7 @@ Note: We only focus on inference now. We plan to involve training work in the fu
 Example: [Conference'year] [Title](doi), affilication
 
 ## Model
+
 [ICLR'23] [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://openreview.net/pdf?id=tcbBPnfwxS), IST Austria </br>
 
 [MLSys'23] [Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization](https://mlsys.org/Conferences/2023/Schedule?showEvent=2442), National university of Singapore </br>
@@ -28,6 +29,18 @@ Example: [Conference'year] [Title](doi), affilication
 [OSDI'22] [Orca: A Distributed Serving System for Transformer-Based Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf), Seoul National University </br>
 
 [ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf), Peking University </br>
+
+[ASPLOS'23] [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) Google
+
+## Training Engine
+
+[ASPLOS'23] [Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression](https://dl.acm.org/doi/10.1145/3575693.3575712) Yonsei University
+
+[ASPLOS'23] [Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers](https://dl.acm.org/doi/10.1145/3575693.3575703) THU
+
+[HPCA'23] [MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism](https://ieeexplore.ieee.org/document/10071077) UCST
+
+[HPCA'23] [OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing](https://ieeexplore.ieee.org/document/10071024) KAIST
 
 ## Compiler
 
