@@ -18,6 +18,8 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 
 [SenSys'21] [LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications](https://dapowan.github.io/files/LIMU-BERT.pdf), Nanyang Technological University </br>
 
+[ICLR'18] [Non-Autoregressive Neural Machine Translation](https://openreview.net/pdf?id=B1l8BtlCb), University of Hong Kong
+
 ## Input
 
 [UbiComp'22] [IF-ConvTransformer: A Framework for Human Activity Recognition Using IMU Fusion and ConvTransformer](https://dl.acm.org/doi/pdf/10.1145/3534584), National University of Defense Technology </br>
