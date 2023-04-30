@@ -16,9 +16,11 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 
 [MLSys'23] [Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization](https://mlsys.org/Conferences/2023/Schedule?showEvent=2442), National university of Singapore </br>
 
+[NeurIPS'22] [Confident Adaptive Language Modeling](https://openreview.net/pdf?id=uLYc4L3C81A), Google Research </br>
+
 [SenSys'21] [LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications](https://dapowan.github.io/files/LIMU-BERT.pdf), Nanyang Technological University </br>
 
-[ICLR'18] [Non-Autoregressive Neural Machine Translation](https://openreview.net/pdf?id=B1l8BtlCb), University of Hong Kong
+[ICLR'18] [Non-Autoregressive Neural Machine Translation](https://openreview.net/pdf?id=B1l8BtlCb), University of Hong Kong </br>
 
 ## Input
 
