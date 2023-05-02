@@ -18,7 +18,32 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 
 [NeurIPS'22] [Confident Adaptive Language Modeling](https://openreview.net/pdf?id=uLYc4L3C81A), Google Research </br>
 
+[NeurIPS'21] [Shapeshifter: a Parameter-efficient Transformer using Factorized Reshaped Matrices](https://proceedings.neurips.cc/paper_files/paper/2021/hash/09def3ebbc44ff3426b28fcd88c83554-Abstract.html) Virginia Commonwealth University </br>
+[NeurIPS'21] [Systematic Generalization with Edge Transformers](https://proceedings.neurips.cc/paper_files/paper/2021/hash/0a4dc6dae338c9cb08947c07581f77a2-Abstract.html) University of California </br>
+[NeurIPS'21] [NxMTransformer: Semi-Structured Sparsification for Natural Language Understanding via ADMM](https://proceedings.neurips.cc/paper_files/paper/2021/hash/0e4f5cc9f4f3f7f1651a6b9f9214e5b1-Abstract.html) Colorado School of Mines </br>
+[NeurIPS'21] [Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems](https://proceedings.neurips.cc/paper_files/paper/2021/hash/2bd388f731f26312bfc0fe30da009595-Abstract.html) Jadavpur University </br>
+[NeurIPS'21] [Fast Multi-Resolution Transformer Fine-tuning for Extreme Multi-label Text Classification](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3bbca1d243b01b47c2bf42b29a8b265c-Abstract.html) Amazon </br>
+[NeurIPS'21] [Sparse is Enough in Scaling Transformers](https://proceedings.neurips.cc/paper_files/paper/2021/hash/51f15efdd170e6043fa02a74882f0470-Abstract.html) Google Research </br>
+[NeurIPS'21] [Neural Rule-Execution Tracking Machine For Transformer-Based Text Generation](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8ce241e1ed84937ee48322b170b9b18c-Abstract.html) Macquarie University </br>
+[NeurIPS'21] [Long-Short Transformer: Efficient Transformers for Language and Vision](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9425be43ba92c2b4454ca7bf602efad8-Abstract.html) University of Maryland </br>
+[NeurIPS'21] [Combiner: Full Attention Transformer with Sparse Computation Cost](https://proceedings.neurips.cc/paper_files/paper/2021/hash/bd4a6d0563e0604510989eb8f9ff71f5-Abstract.html) Stanford University </br>
+[NeurIPS'21] [FMMformer: Efficient and Flexible Transformer via Decomposed Near-field and Far-field Attention](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f621585df244e9596dc70a39b579efb1-Abstract.html) University of California </br>
+[NeurIPS'21] [Searching for Efficient Transformers for Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2021/hash/2f3c6a4cd8af177f6456e7e51a916ff3-Abstract.html) Google Research </br>
+
+
 [SenSys'21] [LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications](https://dapowan.github.io/files/LIMU-BERT.pdf), Nanyang Technological University </br>
+
+[NeurIPS'20] [Deep Transformers with Latent Depth](https://proceedings.neurips.cc/paper_files/paper/2020/hash/1325cdae3b6f0f91a1b629307bf2d498-Abstract.html) Facebook AI Research </br>
+[NeurIPS'20] [Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing](https://proceedings.neurips.cc/paper_files/paper/2020/hash/2cd2915e69546904e4e5d4a2ac9e1652-Abstract.html) Carnegie Mellon University </br>
+[NeurIPS'20] [MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://proceedings.neurips.cc/paper_files/paper/2020/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) Microsoft Research </br>
+[NeurIPS'20] [Big Bird: Transformers for Longer Sequences](https://proceedings.neurips.cc/paper_files/paper/2020/hash/c8512d142a2d849725f31a9a7a361ab9-Abstract.html) Google Research </br>
+[NeurIPS'20] [Fast Transformers with Clustered Attention](https://proceedings.neurips.cc/paper_files/paper/2020/hash/f6a8dd1c954c8506aadc764cc32b895e-Abstract.html) 
+Idiap Research Institute, Switzerland </br>
+
+[NeurIPS'19] [Levenshtein Transformer](https://proceedings.neurips.cc/paper_files/paper/2019/hash/675f9820626f5bc0afb47b57890b466e-Abstract.html) Facebook AI Research </br>
+[NeurIPS'19] [Novel positional encodings to enable tree-based transformers](https://proceedings.neurips.cc/paper_files/paper/2019/hash/6e0917469214d8fbd8c517dcdc6b8dcf-Abstract.html) Microsoft Research </br>
+[NeurIPS'19] [A Tensorized Transformer for Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2019/hash/dc960c46c38bd16e953d97cdeefdbc68-Abstract.html)  Tianjin University
+<!-- [NeurIPS'19] [Graph Transformer Networks](https://proceedings.neurips.cc/paper_files/paper/2019/hash/9d63484abb477c97640154d40595a3bb-Abstract.html) Korea University </br> -->
 
 [ICLR'18] [Non-Autoregressive Neural Machine Translation](https://openreview.net/pdf?id=B1l8BtlCb), University of Hong Kong </br>
 
@@ -36,6 +61,9 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 
 [ATC'22] [PetS: A Unified Framework for Parameter-Efficient Transformers Serving](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf), Peking University </br>
 
+[NeurIPS'22] [Towards Efficient Post-training Quantization of Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html), Huawei Noah’s Ark Lab </br>
+[NeurIPS'22] [Solving Quantitative Reasoning Problems with Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/18abbeef8cfe9203fdf9053c9c4fe191-Abstract-Conference.html), Google Research </br>
+
 [ASPLOS'23] [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) Google
 
 ## Training Engine
@@ -47,6 +75,10 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 [HPCA'23] [MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism](https://ieeexplore.ieee.org/document/10071077) UCST
 
 [HPCA'23] [OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing](https://ieeexplore.ieee.org/document/10071024) KAIST
+
+[NeurIPS'20] [Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping](https://proceedings.neurips.cc/paper_files/paper/2020/hash/a1140a3d0df1c81e24ae954d935e8926-Abstract.html) Microsoft Corporation </br>
+
+[NeurIPS'19] [Ouroboros: On Accelerating Training of Transformer-Based Language Models](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1b79b52d1bf6f71b2b1eb7ca08ed0776-Abstract.html) Duke University </br>
 
 ## Compiler
 
