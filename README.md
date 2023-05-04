@@ -15,7 +15,6 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 [ICLR'23] [Efficient Attention via Control Variates](https://openreview.net/pdf?id=G-uNfHKrj46), University of Hong Kong </br>
 [ICLR'23] [HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer](https://openreview.net/pdf?id=3F6I-0-57SC), University of Chinese Academy of Sciences </br>
 [ICLR'23] [Knowledge-in-Context: Towards Knowledgeable Semi-Parametric Language Models](https://openreview.net/pdf?id=a2jNdqE2102), Tencent AI Lab </br>
-[ICLR'23] [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/pdf?id=j8IiQUM33s),  Hong Kong University of Science and Technology </br>
 
 
 [MLSys'23] [Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization](https://mlsys.org/Conferences/2023/Schedule?showEvent=2442), National university of Singapore </br>
@@ -54,6 +53,10 @@ Idiap Research Institute, Switzerland </br>
 ## Input
 
 [UbiComp'22] [IF-ConvTransformer: A Framework for Human Activity Recognition Using IMU Fusion and ConvTransformer](https://dl.acm.org/doi/pdf/10.1145/3534584), National University of Defense Technology </br>
+
+## Training algorithm
+[ICLR'23] [Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization](https://openreview.net/pdf?id=KGV-GBh8fb),  Tsinghua University </br>
+[ICLR'23] [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/pdf?id=j8IiQUM33s),  Hong Kong University of Science and Technology </br>
 
 ## Inference engine
 
