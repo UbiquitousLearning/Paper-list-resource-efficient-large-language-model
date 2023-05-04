@@ -16,7 +16,18 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 
 [MLSys'23] [Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization](https://mlsys.org/Conferences/2023/Schedule?showEvent=2442), National university of Singapore </br>
 
+[ACL'22] [AraT5: Text-to-Text Transformers for Arabic Language Generation](https://aclanthology.org/2022.acl-long.47/) The University of British Columbia </br>
+[ACL'22] [ClusterFormer: Neural Clustering Attention for Efficient and Effective Transformer](https://aclanthology.org/2022.acl-long.170/) Tianjin University </br>
+[ACL'22] [∞-former: Infinite Memory Transformer](https://aclanthology.org/2022.acl-long.375/) Instituto de Telecomunicações </br>
+[ACL'22] [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://aclanthology.org/2022.acl-long.534/) South China University of Technology </br>
+[ACL'22] [PLANET: Dynamic Content Planning in Autoregressive Transformers for Long-form Text Generation](https://aclanthology.org/2022.acl-long.163/) Baidu Inc  </br>
+
 [NeurIPS'22] [Confident Adaptive Language Modeling](https://openreview.net/pdf?id=uLYc4L3C81A), Google Research </br>
+[NeurIPS'22] [Transcormer: Transformer for Sentence Scoring with Sliding Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2022/hash/486ff0b164cf92b0255fe39863bcf99e-Abstract-Conference.html) Microsoft Research Asia </br>
+[NeurIPS'22] [Large Language Models are Zero-Shot Reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html) The University of Tokyo </br>
+[NeurIPS'22] [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html), OpenAI </br>
+
+[ACL'21] [RealFormer: Transformer Likes Residual Attention](https://aclanthology.org/2021.findings-acl.81/) Google Research  </br>
 
 [NeurIPS'21] [Shapeshifter: a Parameter-efficient Transformer using Factorized Reshaped Matrices](https://proceedings.neurips.cc/paper_files/paper/2021/hash/09def3ebbc44ff3426b28fcd88c83554-Abstract.html) Virginia Commonwealth University </br>
 [NeurIPS'21] [Systematic Generalization with Edge Transformers](https://proceedings.neurips.cc/paper_files/paper/2021/hash/0a4dc6dae338c9cb08947c07581f77a2-Abstract.html) University of California </br>
@@ -63,6 +74,11 @@ Idiap Research Institute, Switzerland </br>
 
 [NeurIPS'22] [Towards Efficient Post-training Quantization of Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html), Huawei Noah’s Ark Lab </br>
 [NeurIPS'22] [Solving Quantitative Reasoning Problems with Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/18abbeef8cfe9203fdf9053c9c4fe191-Abstract-Conference.html), Google Research </br>
+[NeurIPS'22] [Fine-tuning Language Models over Slow Networks using Activation Quantization with Guarantees](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a43b8eb92cd5f652b78eeee3fb6f910-Abstract-Conference.html), ETH Zürich, Switzerland </br>
+[NeurIPS'22] [Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b7c12689a89e98a61bcaa65285a41b7c-Abstract-Conference.html), NC State University </br>
+[NeurIPS'22] [Exploring Length Generalization in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fb7451e43f9c1c35b774bcfad7a5714b-Abstract-Conference.html), Google Research </br>
+
+[ACL'21] [MiniLMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers](https://aclanthology.org/2021.findings-acl.188/) Microsoft Research </br>
 
 [ASPLOS'23] [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) Google
 
@@ -75,6 +91,10 @@ Idiap Research Institute, Switzerland </br>
 [HPCA'23] [MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism](https://ieeexplore.ieee.org/document/10071077) UCST
 
 [HPCA'23] [OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing](https://ieeexplore.ieee.org/document/10071024) KAIST
+
+[NeurIPS'22] [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4fdf8d49476a8001c91f9e9e90530e13-Abstract-Conference.html), Sun Yat-sen University </br>
+[NeurIPS'22] [A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a27143ea615262a0c122eb179c9b7a6-Abstract-Conference.html), Chinese Academy of Sciences </br>
+[NeurIPS'22] [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://proceedings.neurips.cc/paper_files/paper/2022/hash/869bfd807a513755bef25e3896a19a21-Abstract-Conference.html), Peking University </br>
 
 [NeurIPS'20] [Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping](https://proceedings.neurips.cc/paper_files/paper/2020/hash/a1140a3d0df1c81e24ae954d935e8926-Abstract.html) Microsoft Corporation </br>
 
