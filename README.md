@@ -69,6 +69,14 @@ Idiap Research Institute, Switzerland </br>
 [ICLR'23] [Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization](https://openreview.net/pdf?id=KGV-GBh8fb),  Tsinghua University </br>
 [ICLR'23] [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/pdf?id=j8IiQUM33s),  Hong Kong University of Science and Technology </br>
 
+[NeurIPS'22] [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4fdf8d49476a8001c91f9e9e90530e13-Abstract-Conference.html), Sun Yat-sen University </br>
+[NeurIPS'22] [A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a27143ea615262a0c122eb179c9b7a6-Abstract-Conference.html), Chinese Academy of Sciences </br>
+[NeurIPS'22] [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://proceedings.neurips.cc/paper_files/paper/2022/hash/869bfd807a513755bef25e3896a19a21-Abstract-Conference.html), Peking University </br>
+
+[NeurIPS'20] [Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping](https://proceedings.neurips.cc/paper_files/paper/2020/hash/a1140a3d0df1c81e24ae954d935e8926-Abstract.html) Microsoft Corporation </br>
+
+[NeurIPS'19] [Ouroboros: On Accelerating Training of Transformer-Based Language Models](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1b79b52d1bf6f71b2b1eb7ca08ed0776-Abstract.html) Duke University </br>
+
 ## Inference engine
 
 [MLSys'23] [Flex: Adaptive Mixture-of-Experts at Scale](https://mlsys.org/Conferences/2023/Schedule?showEvent=2477), Microsoft Research </br>
@@ -98,14 +106,6 @@ Idiap Research Institute, Switzerland </br>
 [HPCA'23] [MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism](https://ieeexplore.ieee.org/document/10071077) UCST
 
 [HPCA'23] [OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing](https://ieeexplore.ieee.org/document/10071024) KAIST
-
-[NeurIPS'22] [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4fdf8d49476a8001c91f9e9e90530e13-Abstract-Conference.html), Sun Yat-sen University </br>
-[NeurIPS'22] [A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a27143ea615262a0c122eb179c9b7a6-Abstract-Conference.html), Chinese Academy of Sciences </br>
-[NeurIPS'22] [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://proceedings.neurips.cc/paper_files/paper/2022/hash/869bfd807a513755bef25e3896a19a21-Abstract-Conference.html), Peking University </br>
-
-[NeurIPS'20] [Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping](https://proceedings.neurips.cc/paper_files/paper/2020/hash/a1140a3d0df1c81e24ae954d935e8926-Abstract.html) Microsoft Corporation </br>
-
-[NeurIPS'19] [Ouroboros: On Accelerating Training of Transformer-Based Language Models](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1b79b52d1bf6f71b2b1eb7ca08ed0776-Abstract.html) Duke University </br>
 
 ## Compiler
 
