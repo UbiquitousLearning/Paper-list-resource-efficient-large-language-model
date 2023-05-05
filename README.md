@@ -72,6 +72,8 @@ Idiap Research Institute, Switzerland </br>
 [ICLR'23] [Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization](https://openreview.net/pdf?id=KGV-GBh8fb),  Tsinghua University </br>
 [ICLR'23] [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/pdf?id=j8IiQUM33s),  Hong Kong University of Science and Technology </br>
 
+[ICLR'22] [Towards a Unified View of Parameter-Efficient Transfer Learning](https://openreview.net/pdf?id=0RDcd5Axok), Carnegie Mellon University
+
 [NeurIPS'22] [AD-DROP: Attribution-Driven Dropout for Robust Language Model Fine-Tuning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/4fdf8d49476a8001c91f9e9e90530e13-Abstract-Conference.html), Sun Yat-sen University </br>
 [NeurIPS'22] [A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7a27143ea615262a0c122eb179c9b7a6-Abstract-Conference.html), Chinese Academy of Sciences </br>
 [NeurIPS'22] [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://proceedings.neurips.cc/paper_files/paper/2022/hash/869bfd807a513755bef25e3896a19a21-Abstract-Conference.html), Peking University </br>
