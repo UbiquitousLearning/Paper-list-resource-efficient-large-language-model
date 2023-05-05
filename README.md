@@ -26,6 +26,7 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 [ACL'22] [PLANET: Dynamic Content Planning in Autoregressive Transformers for Long-form Text Generation](https://aclanthology.org/2022.acl-long.163/) Baidu Inc  </br>
 
 [ICLR'22] [Memorizing Transformers](https://openreview.net/pdf?id=TrjbxzRcnf-), Google <br>
+[ICLR'22] [Understanding the Role of Self Attention for Efficient Speech Recognition]([https://openreview.net/pdf?id=TrjbxzRcnf-](https://openreview.net/pdf?id=AvcfxqRy4Y)), Seoul National University <br>
 
 [NeurIPS'22] [Confident Adaptive Language Modeling](https://openreview.net/pdf?id=uLYc4L3C81A), Google Research </br>
 [NeurIPS'22] [Transcormer: Transformer for Sentence Scoring with Sliding Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2022/hash/486ff0b164cf92b0255fe39863bcf99e-Abstract-Conference.html) Microsoft Research Asia </br>
