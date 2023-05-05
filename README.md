@@ -25,6 +25,8 @@ Example: [Conference'year] [Title](doi), First-author Affiliation
 [ACL'22] [LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding](https://aclanthology.org/2022.acl-long.534/) South China University of Technology </br>
 [ACL'22] [PLANET: Dynamic Content Planning in Autoregressive Transformers for Long-form Text Generation](https://aclanthology.org/2022.acl-long.163/) Baidu Inc  </br>
 
+[ICLR'22] [Memorizing Transformers](https://openreview.net/pdf?id=TrjbxzRcnf-), Google <br>
+
 [NeurIPS'22] [Confident Adaptive Language Modeling](https://openreview.net/pdf?id=uLYc4L3C81A), Google Research </br>
 [NeurIPS'22] [Transcormer: Transformer for Sentence Scoring with Sliding Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2022/hash/486ff0b164cf92b0255fe39863bcf99e-Abstract-Conference.html) Microsoft Research Asia </br>
 [NeurIPS'22] [Large Language Models are Zero-Shot Reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html) The University of Tokyo </br>
