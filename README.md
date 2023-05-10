@@ -84,6 +84,7 @@ Idiap Research Institute, Switzerland </br>
 
 ## Inference engine
 
+[EuroSys'23][Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://yidingwang.xyz/public/files/tabi_eurosys23.pdf), HKUST </br>
 [MLSys'23] [Flex: Adaptive Mixture-of-Experts at Scale](https://mlsys.org/Conferences/2023/Schedule?showEvent=2477), Microsoft Research </br>
 
 [MLSys'23] [Efficiently Scaling Transformer Inference](https://mlsys.org/Conferences/2023/Schedule?showEvent=2463), Google </br>
