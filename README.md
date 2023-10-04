@@ -9,7 +9,7 @@ Note: We only focus on inference now. We plan to involve training work in the fu
 Example: [Conference'year] [Title](doi), First-author Affiliation
 
 ## Model
-
+[MobiCom'23] [AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments](https://dl.acm.org/doi/10.1145/3570361.3592529), Tsinghua University </br>
 [ICLR'23] [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://openreview.net/pdf?id=tcbBPnfwxS), IST Austria </br>
 [ICLR'23] [Token Merging: Your ViT But Faster](https://openreview.net/pdf?id=JroZRaRw7Eu),  Georgia Tech </br>
 [ICLR'23] [Efficient Attention via Control Variates](https://openreview.net/pdf?id=G-uNfHKrj46), University of Hong Kong </br>
@@ -69,6 +69,8 @@ Idiap Research Institute, Switzerland </br>
 [UbiComp'22] [IF-ConvTransformer: A Framework for Human Activity Recognition Using IMU Fusion and ConvTransformer](https://dl.acm.org/doi/pdf/10.1145/3534584), National University of Defense Technology </br>
 
 ## Training algorithm
+[MobiCom'23] [Efficient Federated Learning for Modern NLP](https://dl.acm.org/doi/10.1145/3570361.3592505), Beijing University of Posts and Telecommunications </br>
+[MobiCom'23] [Federated Few-shot Learning for Mobile NLP](https://dl.acm.org/doi/10.1145/3570361.3613277), Beijing University of Posts and Telecommunications </br>
 [ICLR'23] [Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization](https://openreview.net/pdf?id=KGV-GBh8fb),  Tsinghua University </br>
 [ICLR'23] [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/pdf?id=j8IiQUM33s),  Hong Kong University of Science and Technology </br>
 
@@ -103,6 +105,7 @@ Idiap Research Institute, Switzerland </br>
 
 [ASPLOS'23] [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) Google
 
+[MobiCom'23] [LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup](https://dl.acm.org/doi/10.1145/3570361.3613285), Microsoft Research Asia </br>
 ## Training Engine
 
 [ASPLOS'23] [Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression](https://dl.acm.org/doi/10.1145/3575693.3575712) Yonsei University
@@ -116,3 +119,6 @@ Idiap Research Institute, Switzerland </br>
 ## Compiler
 
 ## Hardware
+
+## Search Engine
+[UbiComp'23] [ODSearch: Fast and Resource Efficient On-device Natural Language Search for Fitness Trackers' Data](https://dl.acm.org/doi/10.1145/3569488) Boston University </br>
