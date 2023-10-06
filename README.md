@@ -73,6 +73,8 @@ Idiap Research Institute, Switzerland </br>
 [MobiCom'23] [Federated Few-shot Learning for Mobile NLP](https://dl.acm.org/doi/10.1145/3570361.3613277), Beijing University of Posts and Telecommunications </br>
 [ICLR'23] [Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization](https://openreview.net/pdf?id=KGV-GBh8fb),  Tsinghua University </br>
 [ICLR'23] [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://openreview.net/pdf?id=j8IiQUM33s),  Hong Kong University of Science and Technology </br>
+[ATC'23] [Accelerating Distributed MoE Training and Inference with Lina](https://www.usenix.org/conference/atc23/presentation/li-jiamin), City University of Hong Kong </br>
+[ATC'23] [SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization](https://www.usenix.org/conference/atc23/presentation/zhai), Tsinghua University </br>
 
 [ICLR'22] [Towards a Unified View of Parameter-Efficient Transfer Learning](https://openreview.net/pdf?id=0RDcd5Axok), Carnegie Mellon University
 
