@@ -9,7 +9,6 @@ Note: We only focus on inference now. We plan to involve training work in the fu
 Example: [Conference'year] [Title](doi), First-author Affiliation
 
 ## Model
-[MobiCom'23] [AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments](https://dl.acm.org/doi/10.1145/3570361.3592529), Tsinghua University </br>
 [ICLR'23] [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://openreview.net/pdf?id=tcbBPnfwxS), IST Austria </br>
 [ICLR'23] [Token Merging: Your ViT But Faster](https://openreview.net/pdf?id=JroZRaRw7Eu),  Georgia Tech </br>
 [ICLR'23] [Efficient Attention via Control Variates](https://openreview.net/pdf?id=G-uNfHKrj46), University of Hong Kong </br>
