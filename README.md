@@ -107,6 +107,20 @@ Idiap Research Institute, Switzerland </br>
 [ASPLOS'23] [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) Google
 
 [MobiCom'23] [LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup](https://dl.acm.org/doi/10.1145/3570361.3613285), Microsoft Research Asia </br>
+
+[ACL'23] [Distilling Script Knowledge from Large Language Models for Constrained Language Planning](https://aclanthology.org/2023.acl-long.236/), Fudan University </br>
+[ACL'23] [I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation](https://aclanthology.org/2023.acl-long.535/), University of Southern California </br>
+[ACL'23] [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150/), University of California </br>
+[ACL'23] [GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model](https://aclanthology.org/2023.acl-industry.15/), Anhui University </br>
+
+[NeurIPS'23] [Can Language Models Teach? Teacher Explanations Improve Student Performance via Theory of Mind](https://arxiv.org/abs/2306.09299), University of North Carolina at Chapel Hill </br>
+[NeurIPS'23] [Blockwise Parallel Transformer for Large Context Models](https://arxiv.org/abs/2305.19370), UC Berkeley </br>
+[NeurIPS'23] [LLM-Pruner: On the Structural Pruning of Large Language Models](https://arxiv.org/abs/2305.11627), National University of Singapore </br>
+[NeurIPS'23] [The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter](https://arxiv.org/abs/2306.03805),  University of Texas at Austin </br>
+[NeurIPS'23] [Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118), Rice University </br>
+[NeurIPS'23] [Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers](https://arxiv.org/abs/2305.15805), ETH Zürich </br>
+[NeurIPS'23] [QuIP: 2-Bit Quantization of Large Language Models With Guarantees](https://arxiv.org/abs/2307.13304), Cornell University </br>
+
 ## Training Engine
 
 [ASPLOS'23] [Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression](https://dl.acm.org/doi/10.1145/3575693.3575712) Yonsei University
@@ -116,6 +130,9 @@ Idiap Research Institute, Switzerland </br>
 [HPCA'23] [MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism](https://ieeexplore.ieee.org/document/10071077) UCST
 
 [HPCA'23] [OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing](https://ieeexplore.ieee.org/document/10071024) KAIST
+
+[NeurIPS'23] [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314), University of Washington </br>
+
 
 ## Compiler
 
