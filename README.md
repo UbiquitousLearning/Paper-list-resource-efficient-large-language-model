@@ -86,6 +86,9 @@ Idiap Research Institute, Switzerland </br>
 [NeurIPS'19] [Ouroboros: On Accelerating Training of Transformer-Based Language Models](https://proceedings.neurips.cc/paper_files/paper/2019/hash/1b79b52d1bf6f71b2b1eb7ca08ed0776-Abstract.html) Duke University </br>
 
 ## Inference engine
+[ASPLOS'23] [FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks](https://dl.acm.org/doi/10.1145/3575693.3575747), Georgia Institute of Technology </br>
+[ISCA'23] [OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization](https://dl.acm.org/doi/10.1145/3579371.3589038), SJTU </br>
+[ISCA'23] [FACT: FFN-Attention Co-optimized Transformer Architecture with Eager Correlation Prediction](https://dl.acm.org/doi/abs/10.1145/3579371.3589057), THU </br>
 
 [EuroSys'23][Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://yidingwang.xyz/public/files/tabi_eurosys23.pdf), HKUST </br>
 [MLSys'23] [Flex: Adaptive Mixture-of-Experts at Scale](https://mlsys.org/Conferences/2023/Schedule?showEvent=2477), Microsoft Research </br>
