@@ -1,3 +1,6 @@
+> :warning: This repository is not maintained anymore. Checkout our [survey paper](https://arxiv.org/pdf/2401.08092.pdf) on efficient LLM and the corresponding [paper list](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey).
+
+
 # Paper-list-resource-efficient-large-language-model
 
 Target venues: system conferences (OSDI/SOSP/ATC/EuroSys), architecture conferences (ISCA/MICRO/ASPLOS/HPCA), network conferences (NSDI/SIGCOMM), mobile conferences (MobiCom/MobiSys/SenSys/UbiComp), AI conferences (NeurIPS/ACL/ICLR/ICML)
